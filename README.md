@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Usama Isa and i'm a computer science student and i have a data science skill.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)i am Usama Isa and i'm a computer science student and i have a data science and machine learning skill.
 =====================================================================================================================================================================================================
 
 Data Scientist
