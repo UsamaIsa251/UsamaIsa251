@@ -6,7 +6,7 @@ Data Scientist
 
 I have python and c++ skills and data science too, i 'm a computer science student and learning web development & cyber security.
 
-* 🌍  I'm based in I live in Nigeria in kano state.
+* 🌍  I'm based in and live in Nigeria in kano state.
 * 🧠  I'm learning A new skills
 * 🤝  I'm open to collaborating on Any project related to computer
 * ⚡  ......
